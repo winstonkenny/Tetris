@@ -1,5 +1,5 @@
-##This game is Teris builded by BigMoon
+## This game is Teris builded by BigMoon
 
-###Use pack:
+### Use pack:
 Tkinter
 
