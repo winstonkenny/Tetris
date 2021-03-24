@@ -1,7 +1,12 @@
-## This game is Teris
+# Teris
 
-This game has no image
+> This game is Teris
+>
+> This game has no image
 
-### Use pack:
-Tkinter
+## How to run it
+
+```bash
+python main.py
+```
 
